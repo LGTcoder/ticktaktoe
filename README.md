@@ -2,6 +2,7 @@
 sahil_latproj
 
 Features
+
 The repository provides implementations of various algorithms in one of the most fundamental general purpose languages - C.
 Well documented source code with detailed explanations provide a valuable resource for educators and students alike.
 Each source code is atomic using standard C library libc and no external libraries are required for their compilation and execution. Thus the fundamentals of the algorithms can be studied in much depth.
